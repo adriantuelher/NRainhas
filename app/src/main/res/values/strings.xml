@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NRainhas</string>
+
+
+    <string name="titulo_configuracoes">Configurações</string>
+    <string name="musica_de_fundo">Música de Fundo</string>
+    <string name="tamanho_tabuleiro">Tamanho do Tabuleiro</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_voltar">Voltar</string>
+    <string name="botao_resetar">Resetar Tabuleiro</string>
+    <string name="titulo_jogo">Jogo das N Rainhas</string>
+    <string name="mensagem_padrao">Coloque/remova rainhas tocando nas casas!</string>
+    <string name="configuracoes_salvas">Configurações salvas!</string>
+
+    <string name="deseja_sair">Deseja salvar as alterações?</string>
+
+
+    <string name="alerta_titulo">Parabéns!</string>
+    <string name="alerta_titulo2">Atenção!</string>
+    <string name="alerta_mensagem">Você venceu! Deseja ir para o próximo nível?</string>
+    <string name="alerta_mensagem2">Você venceu!</string>
+    <string name="botao_sim">Sim</string>
+    <string name="botao_nao">Não</string>
+    <string name="botao_ok">OK</string>
+
+
+    <string name="mensagem_conflito">Há rainhas em conflito!</string>
+    <string name="mensagem_vitoria">Parabéns, você resolveu o desafio!</string>
+
+
+    <string-array name="board_sizes">
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+    </string-array>
+</resources>

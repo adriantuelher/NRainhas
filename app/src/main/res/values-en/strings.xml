@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NQueens</string>
+
+
+    <string name="titulo_configuracoes">Settings</string>
+    <string name="musica_de_fundo">Background Music</string>
+    <string name="tamanho_tabuleiro">Board Size</string>
+    <string name="botao_salvar">Save</string>
+    <string name="botao_voltar">Back</string>
+    <string name="botao_resetar">Reset Board</string>
+    <string name="titulo_jogo">N Queens Game</string>
+    <string name="mensagem_padrao">Place/remove queens by tapping the squares!</string>
+    <string name="configuracoes_salvas">Settings saved!</string>
+
+    <string name="deseja_sair">Do you want to save the changes?</string>
+
+
+    <string name="alerta_titulo">Congratulations!</string>
+    <string name="alerta_titulo2">Attention!</string>
+    <string name="alerta_mensagem"> Do you want to go to the next level?</string>
+    <string name="alerta_mensagem2">You won!</string>
+    <string name="botao_sim">Yes</string>
+    <string name="botao_nao">No</string>
+    <string name="botao_ok">OK</string>
+
+
+    <string name="mensagem_conflito">There are queens in conflict!</string>
+    <string name="mensagem_vitoria">Congratulations, you solved the challenge!</string>
+
+
+    <string-array name="board_sizes">
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+    </string-array>
+</resources>
